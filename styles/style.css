@@ -92,7 +92,6 @@
 
 .description {
   margin-top: 100px;
-  margin-bottom: 100px;
   display: flex;
   justify-content: center;
 }
@@ -174,7 +173,7 @@
   justify-content: space-between;
 }
 
-.table__theme_white {
+.table_theme_white {
   margin: 0 auto;
   padding: 0;
 }
@@ -220,7 +219,6 @@
   padding-top: 100px;
   box-sizing: border-box;
   position: relative;
-  margin-top: 100px;
 }
 
 .feynman__title {
@@ -272,7 +270,7 @@
   color: white;
 }
 
-.table__theme_dark {
+.table_theme_dark {
   margin: 0 auto;
   padding: 0;
 }
@@ -366,13 +364,13 @@
 .footer__column-links {
   list-style: none;
   padding-left: 0;
+  margin-top: 20px;
+  margin-bottom: 16px;
 }
 
 .footer__column-link {
   color: white;
   text-decoration: none;
-  margin-top: 20px;
-  margin-bottom: 16px;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
