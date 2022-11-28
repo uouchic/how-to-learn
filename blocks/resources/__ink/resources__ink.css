@@ -1,0 +1,8 @@
+.resources__ink {
+  list-style: none;
+}
+
+.resources__ink:hover {
+  opacity: 0.6;
+  transition: opacity 0.8s;
+}
